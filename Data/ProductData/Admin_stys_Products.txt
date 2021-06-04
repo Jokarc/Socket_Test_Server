@@ -1,0 +1,13 @@
+2
+myProduct1
+Book
+9.88
+11
+1
+myi
+book
+Book
+10
+0
+1
+none

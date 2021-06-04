@@ -1,0 +1,13 @@
+2
+book
+Book
+100
+10
+0.650000
+none
+clothes
+Clothes
+100
+4
+1
+none
